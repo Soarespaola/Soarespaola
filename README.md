@@ -19,7 +19,8 @@ I'm a systems analysis and development student, looking for internship opportuni
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70922620/129124168-f1a7297f-3cb3-4969-9739-d556b8854be5.gif)
 
-![snake animation](https://github.com/Soarespaola/Soarespaola/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 
