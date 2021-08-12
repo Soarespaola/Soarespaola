@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
 # Paola de Alcantara Soares
 
 
-### Hi 👋
 I'm a systems analysis and development student, looking for internship opportunities in projects related to Software Development.
 - 🌱 I'm currently studying mobile development, focused on iOS in the Swuift language (in addition, I'm improving my data structures and algorithmic skills).
 - 🤝 I am looking for opportunities to develop in the area of systems development.
