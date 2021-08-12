@@ -18,6 +18,9 @@ I'm a systems analysis and development student, looking for internship opportuni
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/paola.soares.7965692)
 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70922620/129124168-f1a7297f-3cb3-4969-9739-d556b8854be5.gif)
+
+
 
 
 <!--
