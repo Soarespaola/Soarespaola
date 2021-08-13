@@ -16,6 +16,8 @@ I'm a systems analysis and development student, looking for internship opportuni
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/paolahsoares/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/paola.soares.7965692)
 
+<code><img height="27" width= "102" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/></code>
+<code><img height="27" width= "102" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></code>
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70922620/129124168-f1a7297f-3cb3-4969-9739-d556b8854be5.gif)
 
