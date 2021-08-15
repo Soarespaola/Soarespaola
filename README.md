@@ -7,9 +7,9 @@ I'm a systems analysis and development student, looking for internship opportuni
 - 🌱 I'm currently studying mobile development, focused on iOS in the Swuift language (in addition, I'm improving my data structures and algorithmic skills).
 - 🤝 I am looking for opportunities to develop in the area of systems development.
 
-<img height= "180em" width= "400" src= "https://github-readme-stats.vercel.app/api?username=SoaresPaola&theme=jolly&show_icons=true">
+<img height= "180em" width= "400" src= "https://github-readme-stats.vercel.app/api?username=SoaresPaola&theme=onedark&show_icons=true">
 
-<img height= "180em" width= "400" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresPaola&theme=jolly&show_icons=true">
+<img height= "180em" width= "400" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresPaola&theme=onedark&show_icons=true">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Paaolahsoares?s=08) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paola-alcantara-soares) 
